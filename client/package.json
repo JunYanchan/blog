@@ -23,6 +23,8 @@
     "hexo-renderer-marked": "^3.0.0",
     "hexo-renderer-stylus": "^1.1.0",
     "hexo-renderer-swig": "^1.1.0",
-    "hexo-server": "^1.0.0"
+    "hexo-server": "^1.0.0",
+    "markdown-it": "^11.0.0",
+    "markdown-it-container": "^3.0.0"
   }
 }
